@@ -9,7 +9,8 @@ Fritzing is a great open source tool for anyone to teach, share, and prototype t
 You can download the parts on the right, under `Releases`. 
 Consider a small donation by clicking this button 
 
-<img  style="float: right;" src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/Fritzing%20Parts/Buy%20me%20a%20Coffee.svg" width="200">
+<a href="default.asp"><img  style="float: right;" src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/Fritzing%20Parts/Buy%20me%20a%20Coffee.svg" width="200"></a>
+
 
 
 
