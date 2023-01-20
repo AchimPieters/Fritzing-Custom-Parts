@@ -4,9 +4,9 @@ Fritzing is a great open source tool for anyone to teach, share, and prototype t
 <img src="https://raw.githubusercontent.com/AchimPieters/Fritzing-Custom-Parts/master/icons/fritz.png" width="15%" height="15%">             <img src="https://raw.githubusercontent.com/AchimPieters/Fritzing-Custom-Parts/master/icons/parts.png" width="15%" height="15%">
 
 
-## Download
+## DOWNLOAD FRITZING PARTS
 
-You can download the parts on the left, under `Releases`.
+You can download the parts on the right, under `Releases`.
 
 For More Information & Projects visit: https://www.studiopieters.nl
 
