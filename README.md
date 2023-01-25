@@ -113,9 +113,18 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FROM THE LICENSOR TO EXERCISE THE LICENSED RIGHTS UNDER</sup><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THE TERMS AND CONDITIONS OF THIS PUBLIC LICENSE.</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. NO DOWNSTREAM RESTRICTIONS. YOU MAY NOT OFFER OR IMPOSE ANY ADDITIONAL OR DIFFERENT TERMS OR CONDITIONS ON, OR APPLY ANY EFFECTIVE TECHNOLOGICAL MEASURES TO, THE LICENSED MATERIAL IF DOING SO RESTRICTS EXERCISE OF THE LICENSED RIGHTS BY ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. NO DOWNSTREAM RESTRICTIONS. YOU MAY NOT OFFER OR IMPOSE ANY</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ADDITIONAL OR DIFFERENT TERMS OR CONDITIONS ON, OR APPLY</sup><br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY EFFECTIVE TECHNOLOGICAL MEASURES TO, THE LICENSED MATERIAL</sup><br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IF DOING SO RESTRICTS EXERCISE OF THE LICENSED RIGHTS BY</sup><br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>6. NO ENDORSEMENT. NOTHING IN THIS PUBLIC LICENSE CONSTITUTES OR MAY BE CONSTRUED AS PERMISSION TO ASSERT OR IMPLY THAT YOU ARE, OR THAT YOUR USE OF THE LICENSED MATERIAL IS, CONNECTED WITH, OR SPONSORED, ENDORSED, OR GRANTED OFFICIAL STATUS BY, THE LICENSOR OR OTHERS DESIGNATED TO RECEIVE ATTRIBUTION AS PROVIDED IN SECTION 3(A)(1)(A)(I).</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>6. NO ENDORSEMENT. NOTHING IN THIS PUBLIC LICENSE CONSTITUTES</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OR MAY BE CONSTRUED AS PERMISSION TO ASSERT OR IMPLY THAT</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU ARE, OR THAT YOUR USE OF THE LICENSED MATERIAL IS,</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>CONNECTED WITH, OR SPONSORED, ENDORSED, OR GRANTED OFFICIAL</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>STATUS BY, THE LICENSOR OR OTHERS DESIGNATED TO RECEIVE</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ATTRIBUTION AS PROVIDED IN SECTION 3(A)(1)(A)(I).</sup>
 
 <sup><b>B. OTHER RIGHTS.</b></sup>
 
