@@ -140,16 +140,16 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES ANY RIGHT TO</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>COLLECT ROYALTIES FROM YOU FOR THE EXERCISE OF THE LICENSED</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>RIGHTS, WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY UNDER</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY LICENSING</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>SCHEME. IN ALL OTHER CASES THE LICENSOR EXPRESSLY RESERVES</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RIGHT TO COLLECT SUCH ROYALTIES, INCLUDING WHEN THE</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL IS USED OTHER THAN FOR NONCOMMERCIAL</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>RIGHTS, WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>UNDER ANY VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSING SCHEME. IN ALL OTHER CASES THE LICENSOR EXPRESSLY</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>RESERVES ANY RIGHT TO COLLECT SUCH ROYALTIES, INCLUDING WHEN</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THE LICENSED MATERIAL IS USED OTHER THAN FOR NONCOMMERCIAL</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>PURPOSES.</sup>
 
 ##### SECTION 3 – LICENSE CONDITIONS.
 
-YOUR EXERCISE OF THE LICENSED RIGHTS IS EXPRESSLY MADE SUBJECT TO THE FOLLOWING CONDITIONS.
+<sup>YOUR EXERCISE OF THE LICENSED RIGHTS IS EXPRESSLY MADE SUBJECT TO THE FOLLOWING CONDITIONS.</sup>
 
 A. ATTRIBUTION.
 1. IF YOU SHARE THE LICENSED MATERIAL, YOU MUST:
