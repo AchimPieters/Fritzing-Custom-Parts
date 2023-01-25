@@ -127,7 +127,13 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 <sup><b>B. OTHER RIGHTS.</b></sup>
 
-<sup>1. MORAL RIGHTS, SUCH AS THE RIGHT OF INTEGRITY, ARE NOT LICENSED UNDER THIS PUBLIC LICENSE, NOR ARE PUBLICITY, PRIVACY, AND/OR OTHER SIMILAR PERSONALITY RIGHTS; HOWEVER, TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES AND/OR AGREES NOT TO ASSERT ANY SUCH RIGHTS HELD BY THE LICENSOR TO THE LIMITED EXTENT NECESSARY TO ALLOW YOU TO EXERCISE THE LICENSED RIGHTS, BUT NOT OTHERWISE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>1. MORAL RIGHTS, SUCH AS THE RIGHT OF INTEGRITY, ARE NOT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED UNDER THIS PUBLIC LICENSE, NOR ARE PUBLICITY,</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>PRIVACY, AND/OR OTHER SIMILAR PERSONALITY RIGHTS;</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>HOWEVER, TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>AND/OR AGREES NOT TO ASSERT ANY SUCH RIGHTS HELD BY</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THE LICENSOR TO THE LIMITED EXTENT NECESSARY TO ALLOW</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU TO EXERCISE THE LICENSED RIGHTS, BUT NOT OTHERWISE.</sup>
 
 <sup>2. PATENT AND TRADEMARK RIGHTS ARE NOT LICENSED UNDER THIS PUBLIC LICENSE.</sup>
 
