@@ -108,7 +108,10 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>5. DOWNSTREAM RECIPIENTS.</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. OFFER FROM THE LICENSOR – LICENSED MATERIAL. EVERY RECIPIENT OF THE LICENSED MATERIAL AUTOMATICALLY RECEIVES AN OFFER FROM THE LICENSOR TO EXERCISE THE LICENSED RIGHTS UNDER THE TERMS AND CONDITIONS OF THIS PUBLIC LICENSE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. OFFER FROM THE LICENSOR – LICENSED MATERIAL. EVERY RECIPIENT</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OF THE LICENSED MATERIAL AUTOMATICALLY RECEIVES AN OFFER</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FROM THE LICENSOR TO EXERCISE THE LICENSED RIGHTS UNDER</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THE TERMS AND CONDITIONS OF THIS PUBLIC LICENSE.</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. NO DOWNSTREAM RESTRICTIONS. YOU MAY NOT OFFER OR IMPOSE ANY ADDITIONAL OR DIFFERENT TERMS OR CONDITIONS ON, OR APPLY ANY EFFECTIVE TECHNOLOGICAL MEASURES TO, THE LICENSED MATERIAL IF DOING SO RESTRICTS EXERCISE OF THE LICENSED RIGHTS BY ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
 
