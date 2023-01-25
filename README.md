@@ -26,11 +26,11 @@ For More Information & Projects visit: https://www.studiopieters.nl
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
+<sup>ATTRIBUTION-NONCOMMERCIAL-NODERIVATIVES 4.0 INTERNATIONAL (CC BY-NC-ND 4.0)</sup><br><br>
+
 <img src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/icons/CC_BY-NC-ND.svg" width="15%" height="15%">    
 
-<sup>ATTRIBUTION-NONCOMMERCIAL-NODERIVATIVES 4.0 INTERNATIONAL (CC BY-NC-ND 4.0)</sup>
-
-<sup>COPYRIGHT (C) 2023 ACHIM PIETERS | STUDIOPIETERS®</sup>
+<sup>COPYRIGHT (C) 2023 ACHIM PIETERS | <b>STUDIO</b>PIETERS®</sup>
 
 <sup>CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-NODERIVATIVES 4.0 INTERNATIONAL</sup>
 
@@ -81,9 +81,11 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>NON-SUBLICENSABLE, NON-EXCLUSIVE, IRREVOCABLE LICENSE TO</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>EXERCISE THE LICENSED RIGHTS IN THE LICENSED MATERIAL TO:</sup><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. REPRODUCE AND SHARE THE LICENSED MATERIAL, IN WHOLE OR IN PART, FOR NONCOMMERCIAL PURPOSES ONLY; AND</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. REPRODUCE AND SHARE THE LICENSED MATERIAL,</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IN WHOLE OR IN PART, FOR NONCOMMERCIAL PURPOSES ONLY; AND</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. PRODUCE AND REPRODUCE, BUT NOT SHARE, ADAPTED MATERIAL FOR NONCOMMERCIAL PURPOSES ONLY.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. PRODUCE AND REPRODUCE, BUT NOT SHARE, ADAPTED MATERIAL</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FOR NONCOMMERCIAL PURPOSES ONLY.</sup></sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. EXCEPTIONS AND LIMITATIONS. FOR THE AVOIDANCE OF DOUBT, WHERE EXCEPTIONS AND LIMITATIONS APPLY TO YOUR USE, THIS PUBLIC LICENSE DOES NOT APPLY, AND YOU DO NOT NEED TO COMPLY WITH ITS TERMS AND CONDITIONS.</sup>
 
