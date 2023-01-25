@@ -119,11 +119,10 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL IF DOING SO RESTRICTS EXERCISE OF THE</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED RIGHTS BY ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>6. NO ENDORSEMENT. NOTHING IN THIS PUBLIC LICENSE CONSTITUTES</sup><br>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OR MAY BE CONSTRUED AS PERMISSION TO ASSERT OR IMPLY THAT</sup><br>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU ARE, OR THAT YOUR USE OF THE LICENSED MATERIAL IS,</sup><br>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>CONNECTED WITH, OR SPONSORED, ENDORSED, OR GRANTED OFFICIAL</sup><br>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>STATUS BY, THE LICENSOR OR OTHERS DESIGNATED TO RECEIVE</sup><br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>6. NO ENDORSEMENT. NOTHING IN THIS PUBLIC LICENSE CONSTITUTES</sup><br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OR MAY BE CONSTRUED AS PERMISSION TO ASSERT OR IMPLY THAT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU ARE, OR THAT YOUR USE OF THE LICENSED MATERIAL IS,</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>CONNECTED WITH, OR SPONSORED, ENDORSED, OR GRANTED OFFICIAL</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>STATUS BY, THE LICENSOR OR OTHERS DESIGNATED TO RECEIVE</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ATTRIBUTION AS PROVIDED IN SECTION 3(A)(1)(A)(I).</sup>
 
 <sup><b>B. OTHER RIGHTS.</b></sup>
