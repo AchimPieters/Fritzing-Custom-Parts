@@ -94,7 +94,17 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. TERM. THE TERM OF THIS PUBLIC LICENSE IS SPECIFIED IN SECTION 6(A).</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>4. MEDIA AND FORMATS; TECHNICAL MODIFICATIONS ALLOWED. THE LICENSOR AUTHORIZES YOU TO EXERCISE THE LICENSED RIGHTS IN ALL MEDIA AND FORMATS WHETHER NOW KNOWN OR HEREAFTER CREATED, AND TO MAKE TECHNICAL MODIFICATIONS NECESSARY TO DO SO. THE LICENSOR WAIVES AND/OR AGREES NOT TO ASSERT ANY RIGHT OR AUTHORITY TO FORBID YOU FROM MAKING TECHNICAL MODIFICATIONS NECESSARY TO EXERCISE THE LICENSED RIGHTS, INCLUDING TECHNICAL MODIFICATIONS NECESSARY TO CIRCUMVENT EFFECTIVE TECHNOLOGICAL MEASURES. FOR PURPOSES OF THIS PUBLIC LICENSE, SIMPLY MAKING MODIFICATIONS AUTHORIZED BY THIS SECTION 2(A)(4) NEVER PRODUCES ADAPTED MATERIAL.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>4. MEDIA AND FORMATS; TECHNICAL MODIFICATIONS ALLOWED. THE</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSOR AUTHORIZES YOU TO EXERCISE THE LICENSED RIGHTS</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IN ALL MEDIA AND FORMATS WHETHER NOW KNOWN OR HEREAFTER</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>CREATED, AND TO MAKE TECHNICAL MODIFICATIONS NECESSARY</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>TO DO SO. THE LICENSOR WAIVES AND/OR AGREES NOT TO ASSERT</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RIGHT OR AUTHORITY TO FORBID YOU FROM MAKING TECHNICAL</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>MODIFICATIONS NECESSARY TO EXERCISE THE LICENSED RIGHTS,</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>INCLUDING TECHNICAL MODIFICATIONS NECESSARY TO CIRCUMVENT</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>EFFECTIVE TECHNOLOGICAL MEASURES. FOR PURPOSES OF THIS</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>PUBLIC LICENSE, SIMPLY MAKING MODIFICATIONS AUTHORIZED</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>BY THIS SECTION 2(A)(4) NEVER PRODUCES ADAPTED MATERIAL.</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>5. DOWNSTREAM RECIPIENTS.</sup>
 
