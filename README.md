@@ -135,9 +135,17 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THE LICENSOR TO THE LIMITED EXTENT NECESSARY TO ALLOW</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU TO EXERCISE THE LICENSED RIGHTS, BUT NOT OTHERWISE.</sup>
 
-<sup>2. PATENT AND TRADEMARK RIGHTS ARE NOT LICENSED UNDER THIS PUBLIC LICENSE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. PATENT AND TRADEMARK RIGHTS ARE NOT LICENSED UNDER</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THIS PUBLIC LICENSE.</sup>
 
-<sup>3. TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES ANY RIGHT TO COLLECT ROYALTIES FROM YOU FOR THE EXERCISE OF THE LICENSED RIGHTS, WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY UNDER ANY VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY LICENSING SCHEME. IN ALL OTHER CASES THE LICENSOR EXPRESSLY RESERVES ANY RIGHT TO COLLECT SUCH ROYALTIES, INCLUDING WHEN THE LICENSED MATERIAL IS USED OTHER THAN FOR NONCOMMERCIAL PURPOSES.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES ANY RIGHT TO COLLECT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ROYALTIES FROM YOU FOR THE EXERCISE OF THE LICENSED RIGHTS,</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY UNDER ANY</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY LICENSING</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>SCHEME. IN ALL OTHER CASES THE LICENSOR EXPRESSLY RESERVES</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RIGHT TO COLLECT SUCH ROYALTIES, INCLUDING WHEN THE</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL IS USED OTHER THAN FOR NONCOMMERCIAL</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>PURPOSES.</sup>
 
 ##### SECTION 3 – LICENSE CONDITIONS.
 
