@@ -81,10 +81,10 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>NON-SUBLICENSABLE, NON-EXCLUSIVE, IRREVOCABLE LICENSE TO</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>EXERCISE THE LICENSED RIGHTS IN THE LICENSED MATERIAL TO:</sup><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. REPRODUCE AND SHARE THE LICENSED MATERIAL,</sup>br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. REPRODUCE AND SHARE THE LICENSED MATERIAL,</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IN WHOLE OR IN PART, FOR NONCOMMERCIAL PURPOSES ONLY; AND</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. PRODUCE AND REPRODUCE, BUT NOT SHARE, ADAPTED MATERIAL</sup>br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. PRODUCE AND REPRODUCE, BUT NOT SHARE, ADAPTED MATERIAL</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FOR NONCOMMERCIAL PURPOSES ONLY.</sup></sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. EXCEPTIONS AND LIMITATIONS. FOR THE AVOIDANCE OF DOUBT, WHERE EXCEPTIONS AND LIMITATIONS APPLY TO YOUR USE, THIS PUBLIC LICENSE DOES NOT APPLY, AND YOU DO NOT NEED TO COMPLY WITH ITS TERMS AND CONDITIONS.</sup>
