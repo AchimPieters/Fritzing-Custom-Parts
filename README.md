@@ -138,10 +138,10 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. PATENT AND TRADEMARK RIGHTS ARE NOT LICENSED UNDER</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THIS PUBLIC LICENSE.</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES ANY RIGHT TO COLLECT</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ROYALTIES FROM YOU FOR THE EXERCISE OF THE LICENSED RIGHTS,</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY UNDER ANY</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY LICENSING</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. TO THE EXTENT POSSIBLE, THE LICENSOR WAIVES ANY RIGHT TO</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>COLLECT ROYALTIES FROM YOU FOR THE EXERCISE OF THE LICENSED</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>RIGHTS, WHETHER DIRECTLY OR THROUGH A COLLECTING SOCIETY UNDER</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY VOLUNTARY OR WAIVABLE STATUTORY OR COMPULSORY LICENSING</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>SCHEME. IN ALL OTHER CASES THE LICENSOR EXPRESSLY RESERVES</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RIGHT TO COLLECT SUCH ROYALTIES, INCLUDING WHEN THE</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL IS USED OTHER THAN FOR NONCOMMERCIAL</sup><br>
