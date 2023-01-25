@@ -115,9 +115,9 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. NO DOWNSTREAM RESTRICTIONS. YOU MAY NOT OFFER OR IMPOSE</sup><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY ADDITIONAL OR DIFFERENT TERMS OR CONDITIONS ON, OR</sup><br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>APPLY ANY EFFECTIVE TECHNOLOGICAL MEASURES TO, THE LICENSED</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>MATERIAL IF DOING SO RESTRICTS EXERCISE OF THE LICENSED RIGHTS BY</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>APPLY ANY EFFECTIVE TECHNOLOGICAL MEASURES TO, THE </sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL IF DOING SO RESTRICTS EXERCISE OF THE</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED RIGHTS BY ANY RECIPIENT OF THE LICENSED MATERIAL.</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>6. NO ENDORSEMENT. NOTHING IN THIS PUBLIC LICENSE CONSTITUTES</sup><br>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OR MAY BE CONSTRUED AS PERMISSION TO ASSERT OR IMPLY THAT</sup><br>   
