@@ -26,6 +26,7 @@ For More Information & Projects visit: https://www.studiopieters.nl
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
+<img src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/icons/CC_BY-NC-ND.svg" width="15%" height="15%">    
 
 <sup>ATTRIBUTION-NONCOMMERCIAL-NODERIVATIVES 4.0 INTERNATIONAL (CC BY-NC-ND 4.0)</sup>
 
