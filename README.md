@@ -179,8 +179,15 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THIS PUBLIC LICENSE. FOR THE AVOIDANCE OF DOUBT, YOU DO NOT</sup><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>HAVE PERMISSION UNDER THIS PUBLIC LICENSE TO SHARE ADAPTED</sup><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>MATERIAL.</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. YOU MAY SATISFY THE CONDITIONS IN SECTION 3(A)(1) IN ANY</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<sup>REASONABLE MANNER BASED ON THE MEDIUM, MEANS, AND CONTEXT IN WHICH YOU SHARE THE LICENSED</sup> <sup>MATERIAL. FOR EXAMPLE, IT MAY BE REASONABLE TO SATISFY THE CONDITIONS BY PROVIDING A URI OR HYPERLINK TO A RESOURCE THAT INCLUDES THE REQUIRED <sup>INFORMATION.</sup>
-<sup>3. IF REQUESTED BY THE LICENSOR, YOU MUST REMOVE ANY OF THE INFORMATION REQUIRED BY SECTION 3(A)(1)(A) TO THE EXTENT REASONABLY PRACTICABLE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>REASONABLE MANNER BASED ON THE MEDIUM, MEANS, AND CONTEXT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IN WHICH YOU SHARE THE LICENSED</sup> <sup>MATERIAL. FOR</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>EXAMPLE, IT MAY BE REASONABLE TO SATISFY THE CONDITIONS</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>BY PROVIDING A URI OR HYPERLINK TO A RESOURCE THAT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>INCLUDES THE REQUIRED INFORMATION.</sup>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3. IF REQUESTED BY THE LICENSOR, YOU MUST REMOVE ANY OF THE</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>INFORMATION REQUIRED BY SECTION 3(A)(1)(A) TO THE EXTENT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>REASONABLY PRACTICABLE.</sup>
   
 ##### SECTION 4 – SUI GENERIS DATABASE RIGHTS.
 
