@@ -156,16 +156,23 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>1. IF YOU SHARE THE LICENSED MATERIAL, YOU MUST:</sup><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. RETAIN THE FOLLOWING IF IT IS SUPPLIED BY THE LICENSOR WITH THE</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL:</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL:</sup><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>I. IDENTIFICATION OF THE CREATOR(S) OF THE LICENSED MATERIAL AND ANY OTHERS DESIGNATED TO RECEIVE ATTRIBUTION, IN ANY REASONABLE MANNER REQUESTED BY</sup><sup>THE LICENSOR (INCLUDING BY PSEUDONYM IF DESIGNATED);</sup>
-<sup>II. A COPYRIGHT NOTICE;</sup>
-<sup>III. A NOTICE THAT REFERS TO THIS PUBLIC LICENSE;</sup>
-<sup>IV. A NOTICE THAT REFERS TO THE DISCLAIMER OF WARRANTIES;</sup>
-<sup>V. A URI OR HYPERLINK TO THE LICENSED MATERIAL TO THE EXTENT REASONABLY PRACTICABLE;</sup>
-<sup>B. INDICATE IF YOU MODIFIED THE LICENSED MATERIAL AND RETAIN AN INDICATION OF ANY PREVIOUS MODIFICATIONS; AND</sup>
-<sup>C. INDICATE THE LICENSED MATERIAL IS LICENSED UNDER THIS PUBLIC LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO, THIS PUBLIC LICENSE.</sup>
-<sup>FOR THE AVOIDANCE OF DOUBT, YOU DO NOT HAVE PERMISSION UNDER THIS PUBLIC LICENSE TO SHARE ADAPTED MATERIAL.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>I. IDENTIFICATION OF THE CREATOR(S) OF THE LICENSED MATERIAL</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>AND ANY OTHERS DESIGNATED TO RECEIVE ATTRIBUTION, IN ANY</sup><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>REASONABLE MANNER REQUESTED BY THE LICENSOR</sup><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(INCLUDING BY PSEUDONYM IF DESIGNATED);</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>II. A COPYRIGHT NOTICE;</sup>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>III. A NOTICE THAT REFERS TO THIS PUBLIC LICENSE;</sup>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IV. A NOTICE THAT REFERS TO THE DISCLAIMER OF WARRANTIES;</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>V. A URI OR HYPERLINK TO THE LICENSED MATERIAL TO THE EXTENT REASONABLY PRACTICABLE;</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. INDICATE IF YOU MODIFIED THE LICENSED MATERIAL AND RETAIN AN INDICATION OF ANY PREVIOUS MODIFICATIONS; AND</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>C. INDICATE THE LICENSED MATERIAL IS LICENSED UNDER THIS PUBLIC LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO, THIS PUBLIC LICENSE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FOR THE AVOIDANCE OF DOUBT, YOU DO NOT HAVE PERMISSION UNDER THIS PUBLIC LICENSE TO SHARE ADAPTED MATERIAL.</sup>
 
 <sup>2. YOU MAY SATISFY THE CONDITIONS IN SECTION 3(A)(1) IN ANY REASONABLE MANNER BASED ON THE MEDIUM, MEANS, AND CONTEXT IN WHICH YOU SHARE THE LICENSED</sup> <sup>MATERIAL. FOR EXAMPLE, IT MAY BE REASONABLE TO SATISFY THE CONDITIONS BY PROVIDING A URI OR HYPERLINK TO A RESOURCE THAT INCLUDES THE REQUIRED <sup>INFORMATION.</sup>
 <sup>3. IF REQUESTED BY THE LICENSOR, YOU MUST REMOVE ANY OF THE INFORMATION REQUIRED BY SECTION 3(A)(1)(A) TO THE EXTENT REASONABLY PRACTICABLE.</sup>
