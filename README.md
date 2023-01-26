@@ -175,7 +175,7 @@ For More Information & Projects visit: https://www.studiopieters.nl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>INDICATION OF ANY PREVIOUS MODIFICATIONS; AND</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>C. INDICATE THE LICENSED MATERIAL IS LICENSED UNDER THIS PUBLIC</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO,</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>THIS PUBLIC LICENSE. FOR THE AVOIDANCE OF DOUBT,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>YOU DO NOT HAVE PERMISSION UNDER THIS PUBLIC LICENSE TO SHARE ADAPTED MATERIAL.</sup>
 
