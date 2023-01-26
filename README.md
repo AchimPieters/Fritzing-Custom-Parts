@@ -168,10 +168,14 @@ For More Information & Projects visit: https://www.studiopieters.nl
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>IV. A NOTICE THAT REFERS TO THE DISCLAIMER OF WARRANTIES;</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>V. A URI OR HYPERLINK TO THE LICENSED MATERIAL TO THE EXTENT REASONABLY PRACTICABLE;</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>V. A URI OR HYPERLINK TO THE LICENSED MATERIAL TO THE EXTENT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>REASONABLY PRACTICABLE;</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. INDICATE IF YOU MODIFIED THE LICENSED MATERIAL AND RETAIN AN INDICATION OF ANY PREVIOUS MODIFICATIONS; AND</sup>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>C. INDICATE THE LICENSED MATERIAL IS LICENSED UNDER THIS PUBLIC LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO, THIS PUBLIC LICENSE.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>B. INDICATE IF YOU MODIFIED THE LICENSED MATERIAL AND RETAIN AN</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>INDICATION OF ANY PREVIOUS MODIFICATIONS; AND</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>C. INDICATE THE LICENSED MATERIAL IS LICENSED UNDER THIS PUBLIC</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSE, AND INCLUDE THE TEXT OF, OR THE URI OR HYPERLINK TO, THIS PUBLIC LICENSE.</sup>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FOR THE AVOIDANCE OF DOUBT, YOU DO NOT HAVE PERMISSION UNDER THIS PUBLIC LICENSE TO SHARE ADAPTED MATERIAL.</sup>
 
 <sup>2. YOU MAY SATISFY THE CONDITIONS IN SECTION 3(A)(1) IN ANY REASONABLE MANNER BASED ON THE MEDIUM, MEANS, AND CONTEXT IN WHICH YOU SHARE THE LICENSED</sup> <sup>MATERIAL. FOR EXAMPLE, IT MAY BE REASONABLE TO SATISFY THE CONDITIONS BY PROVIDING A URI OR HYPERLINK TO A RESOURCE THAT INCLUDES THE REQUIRED <sup>INFORMATION.</sup>
