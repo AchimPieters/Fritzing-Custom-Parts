@@ -154,8 +154,11 @@ For More Information & Projects visit: https://www.studiopieters.nl
 <sup><b>A. ATTRIBUTION.</b></sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>1. IF YOU SHARE THE LICENSED MATERIAL, YOU MUST:</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. RETAIN THE FOLLOWING IF IT IS SUPPLIED BY THE LICENSOR WITH THE LICENSED MATERIAL:</sup><br>
-<sup>I. IDENTIFICATION OF THE CREATOR(S) OF THE LICENSED MATERIAL AND ANY OTHERS DESIGNATED TO RECEIVE ATTRIBUTION, IN ANY REASONABLE MANNER REQUESTED BY</sup><sup>THE LICENSOR (INCLUDING BY PSEUDONYM IF DESIGNATED);</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>A. RETAIN THE FOLLOWING IF IT IS SUPPLIED BY THE LICENSOR WITH THE</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>LICENSED MATERIAL:</sup><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>I. IDENTIFICATION OF THE CREATOR(S) OF THE LICENSED MATERIAL AND ANY OTHERS DESIGNATED TO RECEIVE ATTRIBUTION, IN ANY REASONABLE MANNER REQUESTED BY</sup><sup>THE LICENSOR (INCLUDING BY PSEUDONYM IF DESIGNATED);</sup>
 <sup>II. A COPYRIGHT NOTICE;</sup>
 <sup>III. A NOTICE THAT REFERS TO THIS PUBLIC LICENSE;</sup>
 <sup>IV. A NOTICE THAT REFERS TO THE DISCLAIMER OF WARRANTIES;</sup>
