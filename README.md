@@ -219,7 +219,7 @@ FOR THE AVOIDANCE OF DOUBT, THIS SECTION 4 SUPPLEMENTS AND DOES NOT REPLACE YOUR
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>OF THE VIOLATION; OR</sup><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2. UPON EXPRESS REINSTATEMENT BY THE LICENSOR.</sup><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<;sup>FOR THE AVOIDANCE OF DOUBT, THIS SECTION 6(B) DOES NOT AFFECT</sup><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>FOR THE AVOIDANCE OF DOUBT, THIS SECTION 6(B) DOES NOT AFFECT</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>ANY RIGHT THE LICENSOR MAY HAVE TO SEEK REMEDIES FOR YOUR</sup><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>VIOLATIONS OF THIS PUBLIC LICENSE.<</sup><br>
 
