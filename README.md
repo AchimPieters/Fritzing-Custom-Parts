@@ -268,6 +268,7 @@ CREATIVE COMMONS IS NOT A PARTY TO ITS PUBLIC LICENSES. NOTWITHSTANDING, CREATIV
 <br>
 <img  style="float: right;" src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/icons/Fritzing_logo.svg" width="100">
 <br>
+
 <b>FRITZING LICENSES</b>
 
 <sup>THE SOURCE CODE OF FRITZING IS LICENSED UNDER GNU GPL V3, THE DOCUMENTATION AND BREADBOARD VIEW GRAPHICS UNDER CC ATTRIBUTION-SHAREALIKE.</sup>
