@@ -266,8 +266,8 @@ CREATIVE COMMONS IS NOT A PARTY TO ITS PUBLIC LICENSES. NOTWITHSTANDING, CREATIV
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
-<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD-Schematics/blob/main/image/KiCad-Logo.svg" width="100">
+<img  style="float: right;" src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/icons/Fritzing_logo.svg" width="100">
 <br>
 <b>FRITZING LICENSES</b>
 
-<sup>KICAD IS FREE SOFTWARE. THE MAJORITY OF KICAD’S SOURCE CODE IS DEVELOPED AND DISTRIBUTED UNDER THE GNU GENERAL PUBLIC LICENSE(GPL) VERSION 3 OR GREATER. ADDITIONAL THIRD PARTY LICENSES MAY ALSO EXIST IN THE CODE BASE SUCH AS THE MIT LICENSE, SEE THE SOURCE CODE FOR COMPLETE AND UP TO DATE DETAILS.</sup>
+<sup>THE SOURCE CODE OF FRITZING IS LICENSED UNDER GNU GPL V3, THE DOCUMENTATION AND BREADBOARD VIEW GRAPHICS UNDER CC ATTRIBUTION-SHAREALIKE.</sup>
