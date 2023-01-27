@@ -1,8 +1,6 @@
 Fritzing is a great open source tool for anyone to teach, share, and prototype their electronic projects! It allows you to design a schematic, and thus a part, which can then be added to very professional-looking wiring diagrams. You can even design your own PCBs and have them fabricated from the files you design. At <b>Studio</b>Pieters®, we use Fritzing in the blogs, our hook-up guides, and any other place we need to show how to hook-up our boards to other hardware.
 
 
-<img src="https://raw.githubusercontent.com/AchimPieters/Fritzing-Custom-Parts/master/icons/fritz.png" width="15%" height="15%">             <img src="https://raw.githubusercontent.com/AchimPieters/Fritzing-Custom-Parts/master/icons/parts.png" width="15%" height="15%">
-
 
 ## DOWNLOAD FRITZING PARTS
 
@@ -20,6 +18,25 @@ For More Information & Projects visit: https://www.studiopieters.nl
 [![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
 [![GitHub license](https://img.shields.io/github/v/release/achimpieters/Fritzing-Custom-Parts)](https://img.shields.io/github/v/release/achimpieters/Fritzing-Custom-Parts) [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
+
+
+<br>
+<br>
+<sup>_____________________________________________________________________________________________________________________________________________</sup>
+<br>
+<br>
+
+<b>FREE CUSTOM FRITZING PARTS FOLDER</b>
+
+<sup>A CUTOM FOLDER IMAGE, TO QUICKLY FIND THE RIGHT FOLDER.</sup>
+
+<img  style="float: right;" src="https://raw.githubusercontent.com/AchimPieters/Fritzing-Custom-Parts/master/icons/parts.png" width="100">
+
+<sup>CHOOSE `FILE` THEN `GET INFO` IN THE MENU BAR.</sup>
+
+<sup>AT THE TOP OF THE INFO WINDOW, CLICK THE `SMALL FOLDER ICON`.</sup>
+
+<sup>`DRAG` THE NEW ICON ONTO THE SMALL ICON. `DONE`.</sup>
 
 <br>
 <br>
